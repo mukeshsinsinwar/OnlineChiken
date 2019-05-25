@@ -6,7 +6,7 @@ import android.os.Bundle;
 import com.farmhouse.onlinechiken.R;
 
 public class SignupActivity extends AppCompatActivity {
-    String s ="";
+    String s =  "learning git how it will work from android";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
