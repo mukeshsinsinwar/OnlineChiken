@@ -7,6 +7,7 @@ import com.farmhouse.onlinechiken.R;
 
 public class LoginActivity extends AppCompatActivity {
 
+    String s = "";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
