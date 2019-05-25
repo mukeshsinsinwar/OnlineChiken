@@ -6,7 +6,7 @@ import android.os.Bundle;
 import com.farmhouse.onlinechiken.R;
 
 public class SignupActivity extends AppCompatActivity {
-    String s =  "learning git how it will work from android developer";
+    String s ="Learn only push not pull";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
