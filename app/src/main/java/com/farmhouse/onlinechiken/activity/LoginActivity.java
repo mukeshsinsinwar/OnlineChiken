@@ -24,7 +24,6 @@ import static java.util.Arrays.sort;
 
 public class LoginActivity extends AppCompatActivity {
 
-    String s = "";
     Button login;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
