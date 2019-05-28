@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 import com.farmhouse.onlinechiken.R;
 
+import static java.util.Arrays.sort;
+
 public class SignupActivity extends AppCompatActivity {
     String s ="Learn only push not pull";
     @Override
@@ -12,4 +14,5 @@ public class SignupActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
     }
+
 }
